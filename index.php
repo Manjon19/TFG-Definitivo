@@ -5,7 +5,7 @@
     require "system/core/autoload.php";
     //Instanciar la clase Router
     $router=new Router();
-
+    session_start();
     $controlador=$router->getController();
     $metodo=$router->getMethod();
     $parametro=$router->getParam();

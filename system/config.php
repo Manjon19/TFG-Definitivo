@@ -1,5 +1,5 @@
 <?php
-    /////Configuraciones de la aplicación
+/////Configuraciones de la aplicación
     /////Path al core
     define("CORE","system/core/");
     /////ROOT de nuestra aplicacion
@@ -18,4 +18,4 @@
     define("DB_HOST", "localhost");
     define("DB_USER", "root");
     define("DB_PASS", "");
-    define("DB_NAME", "Autoescuela_Manjon");
+    define("DB_NAME", "autoescuelamanjon");
